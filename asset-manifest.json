@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-api-crypto/static/css/main.6c6f13bb.css",
-    "main.js": "/react-api-crypto/static/js/main.318950c1.js",
+    "main.js": "/react-api-crypto/static/js/main.78655cbb.js",
     "index.html": "/react-api-crypto/index.html",
     "main.6c6f13bb.css.map": "/react-api-crypto/static/css/main.6c6f13bb.css.map",
-    "main.318950c1.js.map": "/react-api-crypto/static/js/main.318950c1.js.map"
+    "main.78655cbb.js.map": "/react-api-crypto/static/js/main.78655cbb.js.map"
   },
   "entrypoints": [
     "static/css/main.6c6f13bb.css",
-    "static/js/main.318950c1.js"
+    "static/js/main.78655cbb.js"
   ]
 }
